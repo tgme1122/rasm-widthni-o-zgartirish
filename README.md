@@ -1,0 +1,1 @@
+# rasm-widthni-o-zgartirish
