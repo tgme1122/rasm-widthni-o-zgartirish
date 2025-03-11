@@ -9,7 +9,7 @@ const App = () => {
 
     return <div className="container">
         <img style={
-            {width:`${size}px`, height:`${size}`,
+            {width:`${size}px`, height:`${size}px`,
             transform: `rotate(${deg}deg)`
             }} className="image" src={rasm} alt="#"/>
         <div className="d-flex gap-2">
